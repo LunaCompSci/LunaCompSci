@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on bioinformatics projects and me doing the front-end of projects.
 - 📫 How to reach me: https://linktr.ee/artdensity
 - 😄 Pronouns: they/them
-- I do have some web programming projects but because they're university projects I can't post them on GitHub due to code plagiarism. Also, I withdrew so... 
+- I do have some web programming projects but because they're university projects I can't post them on GitHub due to code plagiarism. Also, I withdrew by week 7 so... 
 If I continue to learn CS, it'll probably be self-study and not through a college. There's a small chance I'll continue to learn CS through college. 
