@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 If I continue to learn CS, it'll probably be self-study and not through a college. There's a small chance I'll continue to learn CS through college. 
 [CSE154 UW course I took.](https://courses.cs.washington.edu/courses/cse154/22wi/)
 - Fun Fact: I🖤🌙Night & Goth
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=LunaCompSci)
