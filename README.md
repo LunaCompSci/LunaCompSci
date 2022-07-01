@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - I'm also premed so I won't be very active. 
-- Technologies I know well: Java, HTML, Python, Git
+- Technologies I know well: Java (up to CSC142), HTML, Python, Git
 - Technologies I kind of know: Javascript, CSS, Mathematica
 - 
 - Technologies I want to learn (in order of priority): Bioinformatics, Data Science, Front-end Dev, UI/UX design (Figma), Machine Learning & Neural Networks, Rust, & React!
