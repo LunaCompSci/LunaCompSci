@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I used to be a CS student but premed so I won't be very active. 
+- I used to be a CS student but I'm premed now so I won't be very active. 
 - Technologies I know well: Java (up to CSC142), HTML, Python, Git
 - Technologies I kind of know: Javascript, CSS, Mathematica
 - 
