@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I used to be a CS student but I'm premed now so I won't be very active. 
-- Technologies I know well: Java (up to CSC142), HTML, Python, Git
+- Right now my intended major is pre-med, microbiology, biology, bioengineering with data science option or bioinformatics at UW and NSC. Those majors are listed from first choice to last choice. I'm not sure what major(s) exactly yet. I want to be an infectious disease doctor, pathologist, or geneticist/genetics counselor. I have more interest in research than clinic, but I don't like the pay.
+
+I used to study computer science in college, but switched because I didn't love it enough and was bad at it. It was my 3rd interest and I mainly studied it for the money. There's a low chance I'll study CS again, and if I do, it'll be self-taught front-end or data science. I'm more likely to self-teach UI/UX though because it's visual.
+
+- Technologies I know well: Java (up to CSC142), HTML, Python, Git, R
 - Technologies I kind of know: Javascript, CSS, Mathematica
 - 
 - Technologies I want to learn (in order of priority): Bioinformatics, Data Science, Front-end Dev, UI/UX design (Figma), Machine Learning & Neural Networks, Rust, & React!
@@ -24,9 +27,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on bioinformatics projects and me doing the front-end of projects! 
 - 📫 How to reach me: https://linktr.ee/artdensity tina200211@gmail.com
 - 😄 Pronouns: they/them
-- I do have some web programming projects but because they're university projects I can't post them on GitHub due to code plagiarism. Also, I withdrew by week 7 and have yet to learn all the content that I missed.  
-If I continue to learn CS, it'll probably be self-study and not through a college. There's a small chance I'll continue to learn CS through college. 
+- I do have some web programming and R programming projects but because they're university projects I can't post them on GitHub due to code plagiarism. Also, I withdrew by week 7 of my web programming class and have yet to learn all the content that I missed.  
 [CSE154 UW course I took.](https://courses.cs.washington.edu/courses/cse154/22wi/)
-- Fun Fact: I🖤🌙Night & Goth
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=LunaCompSci)
