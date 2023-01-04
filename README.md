@@ -21,7 +21,7 @@ I used to study computer science in college, but switched because I didn't love 
 
 - Technologies I know well: Java (up to CSC142), HTML, Python, Git, R
 - Technologies I kind of know: Javascript, CSS, Mathematica
-- 
+
 - Technologies I want to learn (in order of priority): Bioinformatics, Data Science, Front-end Dev, UI/UX design (Figma), Machine Learning & Neural Networks, Rust, & React!
 - 🤔 I’m looking for help with all the technologies listed above. 
 - 👯 I’m looking to collaborate on bioinformatics projects and me doing the front-end of projects! 
