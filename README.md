@@ -19,8 +19,8 @@ Right now my intended major is pre-med, microbiology, biology, bioengineering wi
 
 I used to study computer science in college, but switched because I didn't love it enough and was bad at it. It was my 3rd interest and I mainly studied it for the money. There's a low chance I'll study CS again, and if I do, it'll be self-taught front-end or data science. I'm more likely to self-teach UI/UX though because it's visual.
 
-- Technologies I know well: Java (up to CSC142), HTML, Python, Git, R
-- Technologies I kind of know: Javascript, CSS, Mathematica
+- Technologies I know well: Java (up to CSC142), HTML, Python, Git
+- Technologies I kind of know: Javascript, CSS, Mathematica, R
 
 - Technologies I want to learn (in order of priority): Bioinformatics, Data Science, Front-end Dev, UI/UX design (Figma), Machine Learning & Neural Networks, Rust, & React!
 - 🤔 I’m looking for help with all the technologies listed above. 
@@ -28,6 +28,6 @@ I used to study computer science in college, but switched because I didn't love 
 - 📫 How to reach me: https://linktr.ee/artdensity tina200211@gmail.com
 - I do have some web programming and R programming projects but because they're university projects I can't post them on GitHub due to code plagiarism. Also, I withdrew by week 7 of my web programming class and have yet to learn all the content that I missed.  
 [CSE154 UW course I took.](https://courses.cs.washington.edu/courses/cse154/22wi/)
-
+[My group project from INFO201 R Programming class](https://github.com/info201a-au2022/project-team-3-section-ac)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=LunaCompSci)
